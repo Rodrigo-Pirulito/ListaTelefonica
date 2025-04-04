@@ -1,0 +1,10 @@
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\bin\Debug\ListaTelefonica.exe.config
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\bin\Debug\ListaTelefonica.exe
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\bin\Debug\ListaTelefonica.pdb
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\obj\Debug\ListaTelefonica.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\obj\Debug\ListaTelefonica.Form1.resources
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\obj\Debug\ListaTelefonica.Properties.Resources.resources
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\obj\Debug\ListaTelefonica.csproj.GenerateResource.cache
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\obj\Debug\ListaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\obj\Debug\ListaTelefonica.exe
+C:\Users\rodri\source\repos\ListaTelefonica\ListaTelefonica\obj\Debug\ListaTelefonica.pdb
