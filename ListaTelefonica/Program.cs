@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace ListaTelefonica
 {
-    static class Program
+    internal static class Program
     {
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
