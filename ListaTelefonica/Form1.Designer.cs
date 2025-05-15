@@ -82,7 +82,7 @@ namespace ListaTelefonica
             this.AddBtn.Name = "AddBtn";
             this.AddBtn.Size = new System.Drawing.Size(157, 23);
             this.AddBtn.TabIndex = 4;
-            this.AddBtn.Text = "Adicionar";
+            this.AddBtn.Text = "&Adicionar";
             this.AddBtn.UseVisualStyleBackColor = true;
             this.AddBtn.Click += new System.EventHandler(this.AddBtn_Click);
             // 
@@ -108,7 +108,7 @@ namespace ListaTelefonica
             this.RemoveBtn.Name = "RemoveBtn";
             this.RemoveBtn.Size = new System.Drawing.Size(157, 23);
             this.RemoveBtn.TabIndex = 6;
-            this.RemoveBtn.Text = "Remover";
+            this.RemoveBtn.Text = "&Remover";
             this.RemoveBtn.UseVisualStyleBackColor = true;
             this.RemoveBtn.Click += new System.EventHandler(this.RemoveBtn_Click);
             // 
